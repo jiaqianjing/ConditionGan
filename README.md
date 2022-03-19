@@ -1,4 +1,4 @@
 # ConditionGan
 
-training process vision
+## Training process vision
 ![](./result.gif)
