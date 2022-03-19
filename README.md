@@ -1,4 +1,4 @@
 # ConditionGan
 
 training process vision
-![](./resluts.gif)
+![](./result.gif)
